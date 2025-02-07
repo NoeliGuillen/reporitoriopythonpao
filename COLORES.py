@@ -3,7 +3,7 @@ from colorama import init, Fore, Back, Style
 init()
 
 while True: 
-    print(f"{Fore.RED}Universidad Victoria")
+    print(f"{Fore.RED}Universidad Victori.")
     print(f"{Fore.RED}Control Escolar")
     nombre=input(f"{Fore.CYAN}Digita el nombre del alumno: ") 
     while True:
